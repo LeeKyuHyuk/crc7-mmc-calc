@@ -1,0 +1,8 @@
+{
+  "short_name": "CRC7-MMC Calculator",
+  "name": "CRC7-MMC Calculator",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
